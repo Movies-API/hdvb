@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Папа бывает только один 2: теща приехала",
+      "title_en": "Padre no hay más que uno 2: La llegada de la suegra",
+      "year": 2020,
+      "kinopoisk_id": 1337692,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-19 01:38:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Озорные хранители кухни",
+      "title_en": "Táo Quây  ///  Naughty Kitchen Guardians",
+      "year": 2019,
+      "kinopoisk_id": 1259028,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-19 01:37:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Бывшая с того света",
       "title_en": "Blithe Spirit",
       "year": 2020,
@@ -235,30 +261,187 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Не лечи меня",
-      "title_en": "",
-      "year": 2021,
-      "kinopoisk_id": 1207408,
-      "type": "movie",
+      "title_ru": "Пуленепробиваемые",
+      "title_en": "Bulletproof",
+      "year": 2018,
+      "kinopoisk_id": 1132323,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "24aa17763934afa8e757df5abf9d7f44f454b64810a63fe68119e6d0fcbe17d3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-17 23:57:01",
+      "added_date": "2021-01-20 18:36:17",
+      "update_date": "2021-01-20 18:36:58",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "TS"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1132323.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Феи: Тайна страны драконов",
-      "title_en": "Bayala: A Magical Adventure",
-      "year": 2020,
-      "kinopoisk_id": 1301779,
-      "type": "movie",
+      "title_ru": "Обет на крови",
+      "title_en": "Klem",
+      "year": 2017,
+      "kinopoisk_id": 1392733,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "856dcb29f77ac9b05746099fb08b0ecad541b290e7f1d972167c620bb8162bc8",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-17 20:02:01",
+      "added_date": "2020-09-25 20:14:49",
+      "update_date": "2021-01-20 17:23:35",
       "block": false,
-      "translator": "Дубляж [Лицензия]",
-      "translator_id": 107,
-      "quality": "BDRip"
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1392733.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Разочарование",
+      "title_en": "Disenchantment",
+      "year": 2018,
+      "kinopoisk_id": 1112702,
+      "world_art_id": null,
+      "translator": "Дубляж",
+      "token": "0554501adaec7d1604265a2bc638f87d4faeb0471b4bde9442d3834610067f14",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2019-09-20 12:59:43",
+      "update_date": "2021-01-20 16:01:33",
+      "block": false,
+      "translator_id": 82,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1112702.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Теряя Элис",
+      "title_en": "Losing Alice",
+      "year": 2020,
+      "kinopoisk_id": 1406228,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "bc4257e5b12c611e6cd9b4246f42affc237f0be80d05d962d9172b78d0eead34",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2021-01-19 09:16:55",
+      "update_date": "2021-01-20 08:40:39",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1406228.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Мост",
@@ -964,224 +1147,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мастер побега",
-      "title_en": "The Escape Artist",
-      "year": 2013,
-      "kinopoisk_id": 771193,
-      "world_art_id": null,
-      "translator": "Первый канал",
-      "token": "ce78736ceb10e43bd32d60cb0057fc6bd1368e6a2774f193f442cefb6650f6da",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-19 20:30:45",
-      "update_date": "2021-01-19 20:31:22",
-      "block": false,
-      "translator_id": 94,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/771193.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Прослушка",
-      "title_en": "The Wire",
-      "year": 2002,
-      "kinopoisk_id": 402955,
-      "world_art_id": null,
-      "translator": "Fox Crime",
-      "token": "2718386eaadc770641125ad6403b82b17d97e25ffffccd39d09ef680f88853ef",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-19 19:39:43",
-      "update_date": "2021-01-19 19:40:40",
-      "block": false,
-      "translator_id": 184,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/402955.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 5,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сёмин: Возмездие",
-      "title_en": "",
-      "year": 2011,
-      "kinopoisk_id": 688066,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "031f85a438a538718dbf4d707826f90c44dfbdefefcd8db668e60940fa33415b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-19 19:36:52",
-      "update_date": "2021-01-19 19:37:36",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/688066.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сёмин",
-      "title_en": "",
-      "year": 2009,
-      "kinopoisk_id": 474479,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "ad250b87d810f8074832230a06819fd6b45d817cd8d2beb1b91aa04933ee5d0b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-19 19:35:34",
-      "update_date": "2021-01-19 19:36:42",
-      "block": false,
-      "translator_id": 92,
-      "quality": "HDTV",
-      "poster": "https://st.kp.yandex.net/images/film_big/474479.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]

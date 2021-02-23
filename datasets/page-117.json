@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "И жила она в злости",
+      "title_en": "Angrily Ever After",
+      "year": 2019,
+      "kinopoisk_id": 1264503,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 22:20:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Гоблин",
+      "title_en": "Goblin",
+      "year": 2020,
+      "kinopoisk_id": 1317925,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-01 07:05:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Дино Дана",
       "title_en": "Dino Dana: The Movie",
       "year": 2020,
@@ -235,30 +261,163 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Реальная история мальчика-волчонка",
-      "title_en": "The True Adventures of Wolfboy / Przygody mlodego wilkolaka",
+      "title_ru": "Шесть рук",
+      "title_en": "Seis Manos",
       "year": 2019,
-      "kinopoisk_id": 1048940,
-      "type": "movie",
+      "kinopoisk_id": 1255804,
+      "world_art_id": null,
+      "translator": "NewStation",
+      "token": "bf20a75450aad105764bf3af6dec70e0262fc43618f03092957e9e0047ae4744",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-30 20:17:02",
+      "added_date": "2020-10-19 23:27:47",
+      "update_date": "2020-10-19 23:28:39",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 138,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1255804.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "День господа",
-      "title_en": "Menendez Parte 1: El día del Señor",
-      "year": 2020,
-      "kinopoisk_id": 985773,
-      "type": "movie",
+      "title_ru": "Весенний вальс",
+      "title_en": "Bomui walcheu",
+      "year": 2006,
+      "kinopoisk_id": 408927,
+      "world_art_id": null,
+      "translator": "одноголосый закадровый",
+      "token": "c7e6c31921812756d1db3bf759dce0e807ef00d43922161df10882b1de187519",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-30 20:16:01",
+      "added_date": "2020-10-19 23:26:13",
+      "update_date": "2020-10-19 23:27:31",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 93,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/408927.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 20,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Мисс Марпл",
+      "title_en": "Agatha Christie\\'s Marple",
+      "year": 2004,
+      "kinopoisk_id": 586662,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "b12ce7af8fad583fed041e84692a2a939cf8c0e1cad0c6c80eb961336d4cdfbf",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-19 23:25:09",
+      "update_date": "2020-10-19 23:26:43",
+      "block": false,
+      "translator_id": 126,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/586662.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Chuteira Preta",
@@ -1565,95 +1724,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Поцелуй меня первым",
-      "title_en": "Kiss Me First",
-      "year": 2018,
-      "kinopoisk_id": 1115409,
-      "world_art_id": null,
-      "translator": "TVShows",
-      "token": "598c2b9db7914fccc13daa1210cf6579311a6faf3662d449dc0b5277525b89bc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-18 20:51:27",
-      "update_date": "2020-10-18 20:54:07",
-      "block": false,
-      "translator_id": 117,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1115409.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Маленькие женщины",
-      "title_en": "Little Women",
-      "year": 2017,
-      "kinopoisk_id": 1046862,
-      "world_art_id": null,
-      "translator": "HDrezka Studio",
-      "token": "5cab003ff5b72c55fe9a845623d5142e12850f8a61a70e385e319fe6abed5de7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-18 20:48:28",
-      "update_date": "2020-10-18 20:50:07",
-      "block": false,
-      "translator_id": 33,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046862.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Последний тамплиер",
-      "title_en": "The Last Templar",
-      "year": 2009,
-      "kinopoisk_id": 454305,
-      "world_art_id": null,
-      "translator": "ТВ-3",
-      "token": "c50874012adfc99fdd7b3cfb9cc511e3eaf5528d88019be2d40a4d7134617519",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-18 20:46:11",
-      "update_date": "2020-10-18 20:46:49",
-      "block": false,
-      "translator_id": 100,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/454305.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]

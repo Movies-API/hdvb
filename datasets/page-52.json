@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Алгоритм: Блаженство",
+      "title_en": "Algorithm: Bliss",
+      "year": 2021,
+      "kinopoisk_id": 800776,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-06 19:04:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Камень в воде",
+      "title_en": "A Stone in the Water",
+      "year": 2019,
+      "kinopoisk_id": 1355306,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2021-01-06 19:02:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Агата и полуночные убийства",
       "title_en": "Agatha and the Midnight Murders",
       "year": 2020,
@@ -235,30 +261,144 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Разбитое сердце на Рождество",
-      "title_en": "Holiday Heartbreak",
-      "year": 2020,
-      "kinopoisk_id": 1405475,
-      "type": "movie",
+      "title_ru": "Кобра Кай",
+      "title_en": "Cobra Kai",
+      "year": 2018,
+      "kinopoisk_id": 1047617,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "12092af9320617cfa10e4ab42728e8bd40fcb98367f6e462eab98735f3623ac4",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-05 14:32:01",
+      "added_date": "2021-01-01 16:25:01",
+      "update_date": "2021-01-04 11:10:19",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1047617.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=149128",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "COVID-21: Смертоносный вирус",
-      "title_en": "COVID-21: Lethal Virus / Contamination: Virus-21",
-      "year": 2021,
-      "kinopoisk_id": 1329033,
-      "type": "movie",
+      "title_ru": "Монархиня",
+      "title_en": "Monarca",
+      "year": 2019,
+      "kinopoisk_id": 1172755,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "949c33677451e921bd4c2233c51a7418e0c9cb65baaddfcf122c9102c2fff7a7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2021-01-05 14:31:02",
+      "added_date": "2021-01-01 16:11:22",
+      "update_date": "2021-01-04 11:10:17",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1172755.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Власть в ночном городе. Книга вторая: Призрак",
+      "title_en": "Power Book II: Ghost",
+      "year": 2020,
+      "kinopoisk_id": 1333758,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "27de5a6965fa982f11501093324a0d5b41354005c6f414d1a831042273eb6aa8",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-09-08 14:19:37",
+      "update_date": "2021-01-04 09:05:20",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1333758.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "За и против",
+      "title_en": "Friheden",
+      "year": 2018,
+      "kinopoisk_id": 1363090,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "ee71b5a9c62fc547bf9a13c1332d44ef130fa65f9c48b28b4677fd7ec5361cba",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-23 08:24:33",
+      "update_date": "2021-01-04 09:04:52",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1363090.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Когда-нибудь наступит завтра",
@@ -1443,143 +1583,6 @@
         },
         {
           "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Если у Вас нету тети",
-      "title_en": "",
-      "year": 2008,
-      "kinopoisk_id": 424956,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "bf0e0fee39f2b27c9ecfd1eb85deafc5475dd9265cf569147656493226620583",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-03 10:14:39",
-      "update_date": "2021-01-03 10:17:26",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/424956.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Капитан полиции метро",
-      "title_en": "",
-      "year": 2016,
-      "kinopoisk_id": 1001699,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "b5094625cd09a19a69d6a31b5823a5c35c3c681a6bd70b1e94f574264aa09eda",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-03 10:13:54",
-      "update_date": "2021-01-03 10:14:30",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1001699.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Повседневная жизнь бессмертного короля",
-      "title_en": "Xian wang de Richang Shenghuo",
-      "year": 2020,
-      "kinopoisk_id": 1378937,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "15efff4e5bc692100cb5f805b3ab045072044c2e70c08c592bcfa4c47dfe321f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-03 09:51:21",
-      "update_date": "2021-01-03 09:52:19",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1378937.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 15,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Топ дог",
-      "title_en": "Top Dog",
-      "year": 2020,
-      "kinopoisk_id": 1341800,
-      "world_art_id": null,
-      "translator": "Contentica",
-      "token": "012f560b2ec2b0f28263621cb1384ca0b9c023ee831141aa8f19390e87c99ca8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2021-01-03 09:49:06",
-      "update_date": "2021-01-03 09:50:28",
-      "block": false,
-      "translator_id": 129,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1341800.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
           "episodes_count": 8,
           "episodes": [
             1,

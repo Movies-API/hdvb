@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Призраки фермы Грэйди",
+      "title_en": "The Haunting of Grady Farm",
+      "year": 2019,
+      "kinopoisk_id": 936935,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 16:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Штамм 100",
+      "title_en": "Strain 100",
+      "year": 2020,
+      "kinopoisk_id": 969036,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-12-25 16:56:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Свет в моей руке",
       "title_en": "Mio on the Shore / Watashi wa hikari wo nigitteiru / Watashi wa hikari o nigitte iru",
       "year": 2019,
@@ -235,30 +261,132 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Любовные чары",
-      "title_en": "Loves Spell",
+      "title_ru": "Женская версия. Такси зеленый огонек",
+      "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 1396214,
-      "type": "movie",
+      "kinopoisk_id": 69804379,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "be1304f680c0d4ef4e889bd67ef6cc7419829a5da730abcecded9ab9bfde14d3",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-23 15:26:01",
+      "added_date": "2020-12-18 17:01:26",
+      "update_date": "2020-12-19 00:12:45",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/69804379.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            1,
+            2,
+            2
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Похищенный",
-      "title_en": "Bound by Law / Black Market Baby / Stolen in Plain Sight",
+      "title_ru": "Женская версия. Ловцы душ",
+      "title_en": "",
       "year": 2020,
-      "kinopoisk_id": 1355960,
-      "type": "movie",
+      "kinopoisk_id": 8089675,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "376de9c6a413236cd549603cab5472816b4ef1216ab413c719116ce3484d5a18",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-12-23 15:25:02",
+      "added_date": "2020-12-18 17:00:13",
+      "update_date": "2020-12-19 00:09:34",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 92,
+      "quality": "SATRip",
+      "poster": "https://www.kinopoisk.ru/images/film_big/8089675.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            1,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Команда",
+      "title_en": "The Team",
+      "year": 2015,
+      "kinopoisk_id": 842944,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "0d9e6937dfc574fdb01da0073fb8b33a91de3329d67f891a6f00603c7873ad89",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-18 23:18:03",
+      "update_date": "2020-12-18 23:57:17",
+      "block": false,
+      "translator_id": 72,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/842944.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Команда",
+      "title_en": "The Team",
+      "year": 2015,
+      "kinopoisk_id": 842944,
+      "world_art_id": null,
+      "translator": "Русский Репортаж",
+      "token": "bd307523e2b8f24eabf668a925d6d33f5555adb6ea0fd070a848f0a5b99e85c6",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-18 23:16:49",
+      "update_date": "2020-12-18 23:18:09",
+      "block": false,
+      "translator_id": 147,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/842944.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Катастрофа",
@@ -996,136 +1124,6 @@
             22,
             23,
             24
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Объятия лжи",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 456567467,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "2b8e2f5283e8b026e8e3c00dcdd96e4924d56fbbbfa1bd2ffeb0370683f76b69",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-16 20:03:21",
-      "update_date": "2020-12-18 17:16:09",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEBRip",
-      "poster": "https://www.kinopoisk.ru/images/film_big/456567467.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мандалорец",
-      "title_en": "The Mandalorian",
-      "year": 2019,
-      "kinopoisk_id": 1118138,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "73bed312b2ebbc8011c85415eee4007f38b9d0754090357b582f09ca7bbc32d7",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-30 16:35:07",
-      "update_date": "2020-12-18 15:56:34",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1118138.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Миллион мелочей",
-      "title_en": "A Million Little Things",
-      "year": 2018,
-      "kinopoisk_id": 1113315,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "6294f582d234ca1110451c2ca6529ad778096e8a7c5e3faf758b7dc2410df154",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-20 13:40:34",
-      "update_date": "2020-12-18 13:40:36",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1113315.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Анатомия страсти",
-      "title_en": "Grey's Anatomy",
-      "year": 2005,
-      "kinopoisk_id": 277535,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "71887ba53449f2718bb3960dfe43f7455257b1d3530491384ec89b1a09e9fcbf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-13 13:48:41",
-      "update_date": "2020-12-18 13:39:29",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/277535.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=125429",
-      "serial_episodes": [
-        {
-          "season_number": 17,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

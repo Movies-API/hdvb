@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Мартин и Марго",
+      "title_en": "Martin and Margot / Martin &amp; Margot or There's No One Around You",
+      "year": 2019,
+      "kinopoisk_id": 1354008,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 21:14:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Железобетонные планы",
+      "title_en": "Concrete Plans",
+      "year": 2020,
+      "kinopoisk_id": 1304537,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-24 21:12:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Кровные узы",
       "title_en": "Let Him Go",
       "year": 2020,
@@ -235,30 +261,163 @@
       "quality": "BluRay"
     },
     {
-      "title_ru": "Мистер Одиночка",
-      "title_en": "Mr Lonesome",
-      "year": 2019,
-      "kinopoisk_id": 1291089,
-      "type": "movie",
+      "title_ru": "Дэш и Лили",
+      "title_en": "Dash &amp; Lily",
+      "year": 2020,
+      "kinopoisk_id": 1328282,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "e22a20810b722dd99d5e451a9828cab2c382de0dac8ad66f8e14bb9ac0e43c5b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-23 22:51:01",
+      "added_date": "2020-11-16 07:12:46",
+      "update_date": "2020-11-16 07:13:32",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 81,
+      "quality": "WEBRip",
+      "poster": "https://img.delivembed.cc/movies/franchise/4/2/1/6/8/0/0/0/0/0/610x900_42168.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Долли Партон: Рождество на площади",
-      "title_en": "Dolly Parton's Christmas on the Square",
+      "title_ru": "Любимцы Мидаса",
+      "title_en": "Los favoritos de Midas",
       "year": 2020,
-      "kinopoisk_id": 1288709,
-      "type": "movie",
+      "kinopoisk_id": 1319039,
+      "world_art_id": null,
+      "translator": "Ultradox",
+      "token": "817a199a862ea8b6a36f8ce55e3ffa7308a5ea112a430ac3a1ad786ff6253d2a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-23 22:50:02",
+      "added_date": "2020-11-13 17:32:39",
+      "update_date": "2020-11-16 07:02:03",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 183,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1319039.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Уилфред",
+      "title_en": "Wilfred",
+      "year": 2011,
+      "kinopoisk_id": 558127,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "d745b77d4ab23d0f04a1c87bc2bd883926f41afd6ec6d14520a671217a956638",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-16 02:31:56",
+      "update_date": "2020-11-16 03:32:16",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/558127.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Во плоти",
@@ -894,118 +1053,6 @@
             41,
             42,
             43
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Степь",
-      "title_en": "Bozkir",
-      "year": 2018,
-      "kinopoisk_id": 1209828,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "955696b8f24848f153f1d256c383e6cf6009be7c107a0139ffe95264188aada4",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-15 02:16:08",
-      "update_date": "2020-11-15 02:18:32",
-      "block": false,
-      "translator_id": 72,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1209828.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Эльфийская песнь",
-      "title_en": "Erufen rîto",
-      "year": 2004,
-      "kinopoisk_id": 256079,
-      "world_art_id": null,
-      "translator": "Профессиональный (многоголосый)",
-      "token": "d5627abd5d7344709497b312af6554b1d32016786fc46080f992d440dae35373",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-15 02:06:14",
-      "update_date": "2020-11-15 02:15:13",
-      "block": false,
-      "translator_id": 126,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/256079.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Те, кто убивают",
-      "title_en": "Those Who Kill",
-      "year": 2014,
-      "kinopoisk_id": 661763,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "8b0ef58578633dffabcb71b9b8870694173abafe2ce5ab222155add2ffe20722",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-15 02:01:41",
-      "update_date": "2020-11-15 02:06:01",
-      "block": false,
-      "translator_id": 72,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/661763.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

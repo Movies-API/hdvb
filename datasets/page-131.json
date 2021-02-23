@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Пятеро из Мерсисайда",
+      "title_en": "The Five in Merseyside",
+      "year": 2018,
+      "kinopoisk_id": 7033092,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-16 01:19:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Железный мост",
+      "title_en": "Zelazny most",
+      "year": 2019,
+      "kinopoisk_id": 1229254,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-16 01:15:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Туалетные кабинки и парковки",
       "title_en": "Bathroom Stalls &amp; Parking Lots",
       "year": 2019,
@@ -235,30 +261,131 @@
       "quality": "HDTV"
     },
     {
-      "title_ru": "Призраки на перекрестке Долины Смерти",
-      "title_en": "Haunting at Death Valley Junction / The Haunting at Death Valley Junction",
-      "year": 2020,
-      "kinopoisk_id": 1141932,
-      "type": "movie",
+      "title_ru": "Королева детектива",
+      "title_en": "Churiui yeowang",
+      "year": 2017,
+      "kinopoisk_id": 1009507,
+      "world_art_id": null,
+      "translator": "Мобильное телевидение",
+      "token": "2dfbb25ab7d5b34551adfb1793b6261c9d3ecca7432c4ea14eca754682cb8020",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-15 00:21:02",
+      "added_date": "2020-10-05 21:37:34",
+      "update_date": "2020-10-05 21:38:31",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 133,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1009507.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Смертельный уикенд / Опасное совпадение",
-      "title_en": "Killer Weekend / Dangerous Match",
+      "title_ru": "Коммандос",
+      "title_en": "Commando's",
       "year": 2020,
-      "kinopoisk_id": 795359,
-      "type": "movie",
+      "kinopoisk_id": 1296004,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "8ee070158bf3c87cc7c29ffe947a9c243ae5d22b5fec3e3725346f543ab4e617",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-15 00:20:01",
+      "added_date": "2020-09-26 21:51:42",
+      "update_date": "2020-10-05 13:47:06",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1296004.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Южный Парк",
+      "title_en": "South Park",
+      "year": 1997,
+      "kinopoisk_id": 161252,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "f9716eea4129e87822e616d07f78b95ca97856f4f87b50df8ac9c0cbcbc2d49e",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-01 19:45:52",
+      "update_date": "2020-10-05 13:41:38",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/161252.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 24,
+          "episodes_count": 1,
+          "episodes": [
+            0
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Уэнтуорт",
@@ -1553,126 +1680,6 @@
             8,
             9,
             10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Тюремный врач",
-      "title_en": "Dakteo peurijeuneo",
-      "year": 2019,
-      "kinopoisk_id": 1227923,
-      "world_art_id": null,
-      "translator": "Мобильное телевидение",
-      "token": "6df4f441ac45c6f544ff4fab46333c799451654edc87e619a9102da99276e304",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-04 08:53:39",
-      "update_date": "2020-10-04 08:54:38",
-      "block": false,
-      "translator_id": 133,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1227923.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Воспитанные волками",
-      "title_en": "Raised by Wolves",
-      "year": 2020,
-      "kinopoisk_id": 1231016,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "9645e6117744209bff1fc0f5cc7ef49e740d94cfa6a07ea5522fdc5081ddb88d",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-06 21:11:38",
-      "update_date": "2020-10-03 22:16:03",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1231016.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Гадание при свечах",
-      "title_en": "",
-      "year": 2010,
-      "kinopoisk_id": 487349,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "8309a1753b77a204665eaab08cfde1eede693cd902848580a5e9bcf02d2c441c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-03 21:00:58",
-      "update_date": "2020-10-03 21:14:33",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/487349.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
           ]
         }
       ]

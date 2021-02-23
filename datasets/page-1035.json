@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title_ru": "Закатать в асфальт",
+      "title_en": "Dragged Across Concrete",
+      "year": 2018,
+      "kinopoisk_id": 1040748,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-23 10:51:09",
+      "block": [
+        "RU"
+      ],
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дом вверх дном",
+      "title_en": "Les dents, pipi et au lit",
+      "year": 2018,
+      "kinopoisk_id": 1094950,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-03-23 10:42:19",
+      "block": [
+        "RU"
+      ],
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Капернаум",
       "title_en": "Capharnaüm",
       "year": 2018,
@@ -237,32 +267,6 @@
       "type": "movie",
       "iframe_url": "",
       "added_date": "2019-03-19 21:54:37",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Чужая ненависть",
-      "title_en": "The Hate U Give",
-      "year": 2018,
-      "kinopoisk_id": 1049279,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-19 19:24:51",
-      "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Девочка",
-      "title_en": "Girl",
-      "year": 2018,
-      "kinopoisk_id": 1115628,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-03-19 16:43:41",
       "block": false,
       "translator": "Дубляж [Чистый звук]",
       "translator_id": 109,

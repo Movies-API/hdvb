@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Поэтический слэм",
+      "title_en": "Poetry Slammed",
+      "year": 2020,
+      "kinopoisk_id": 1094249,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-02-13 13:58:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Без Границ",
+      "title_en": "Unconditional",
+      "year": 2020,
+      "kinopoisk_id": 1016464,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-02-13 13:57:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Полицейский с Рублевки. Новогодний беспредел 2",
       "title_en": "",
       "year": 2019,
@@ -233,32 +259,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "HDTV"
-    },
-    {
-      "title_ru": "Война приложений",
-      "title_en": "App War",
-      "year": 2018,
-      "kinopoisk_id": 1303935,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-02-11 14:33:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BDRip"
-    },
-    {
-      "title_ru": "Битва при Литтл-Бигхорн",
-      "title_en": "Battle of Little Bighorn",
-      "year": 2020,
-      "kinopoisk_id": 23456674,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-02-11 14:32:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
     }
   ]
 }

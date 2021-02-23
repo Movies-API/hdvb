@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Девять жизней",
+      "title_en": "Nine Lives",
+      "year": 2016,
+      "kinopoisk_id": 885349,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-07-15 00:22:07",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "Стартрек: Бесконечность",
+      "title_en": "Star Trek: Beyond",
+      "year": 2016,
+      "kinopoisk_id": 734349,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-07-15 00:22:07",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Новая эра Z",
       "title_en": "The Girl with All the Gifts",
       "year": 2016,
@@ -229,32 +255,6 @@
       "type": "movie",
       "iframe_url": "",
       "added_date": "2018-07-15 00:08:48",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Лунный флаг",
-      "title_en": "Atrapa la bandera",
-      "year": 2015,
-      "kinopoisk_id": 850270,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-07-15 00:07:14",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "День независимости: Возрождение",
-      "title_en": "Independence Day: Resurgence",
-      "year": 2016,
-      "kinopoisk_id": 505827,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-07-15 00:07:14",
       "block": false,
       "translator": "Дубляж",
       "translator_id": 82,

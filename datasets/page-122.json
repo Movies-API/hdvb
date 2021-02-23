@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Конец 2050",
+      "title_en": "Endgame 2050",
+      "year": 2020,
+      "kinopoisk_id": 12292428,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-26 00:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Возвращение короля Хуана Фейхуна",
+      "title_en": "Return of the King Huang Feihong",
+      "year": 2017,
+      "kinopoisk_id": 11502758,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-26 00:36:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Еще один зомби-апокалипсис",
       "title_en": "Another Apocalyptic Zombie Movie",
       "year": 2018,
@@ -235,30 +261,117 @@
       "quality": "TS"
     },
     {
-      "title_ru": "Растворяться",
-      "title_en": "Dissolve",
-      "year": 2019,
-      "kinopoisk_id": 1299350,
-      "type": "movie",
+      "title_ru": "Кроуфорд",
+      "title_en": "Crawford",
+      "year": 2018,
+      "kinopoisk_id": 1112396,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "69108ef779519d9fbb722745d39d0066047a4d512516bd8550a9ca5a9516ac6d",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-25 20:26:02",
+      "added_date": "2020-10-15 01:42:28",
+      "update_date": "2020-10-15 01:49:39",
       "block": false,
-      "translator": "Не требуется",
-      "translator_id": 92,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1112396.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Спасители",
-      "title_en": "Saviors",
-      "year": 2020,
-      "kinopoisk_id": 1062586,
-      "type": "movie",
+      "title_ru": "Городские легенды",
+      "title_en": "Urban Myths",
+      "year": 2017,
+      "kinopoisk_id": 1008707,
+      "world_art_id": null,
+      "translator": "Good People",
+      "token": "aab4b18f3dafb3ded069356b28a0283e7c299a25107e3f8ccf5c56fbc742da62",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-25 20:24:01",
+      "added_date": "2020-10-15 01:35:55",
+      "update_date": "2020-10-15 01:37:07",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 30,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1008707.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Пропасть между нами",
+      "title_en": "",
+      "year": 2019,
+      "kinopoisk_id": 1309220,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "8d7132936bb4e0a1f7910d32fa09935803844dcb90f95bca3b72bc1627cf00bf",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-15 01:32:57",
+      "update_date": "2020-10-15 01:33:38",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1309220.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 4,
+          "episodes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Одно тёплое слово",
@@ -954,142 +1067,6 @@
       "serial_episodes": [
         {
           "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Обманутые надежды",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 45677345,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "5b27bb6febcb99309bfa0b75d8f318d3f4f19dc6ab3949d6b25489e147b31632",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-14 01:36:46",
-      "update_date": "2020-10-14 01:42:54",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/45677345.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 4,
-          "episodes": [
-            1,
-            2,
-            3,
-            4
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дивизион",
-      "title_en": "A Divisão",
-      "year": 2019,
-      "kinopoisk_id": 1130339,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "d3764203d2e5347f36acf814160d21b81929101a5d06606b4d03d5c776faa0e2",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-28 18:16:09",
-      "update_date": "2020-10-13 21:35:53",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1130339.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 5,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Каин. Исключение из правил",
-      "title_en": "Caïn",
-      "year": 2012,
-      "kinopoisk_id": 804628,
-      "world_art_id": null,
-      "translator": "двухголосый закадровый",
-      "token": "0856b1e6a469d589f0c8a7ca63e463f85741c8155d97de3a4211f896eb78dae1",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-13 20:18:32",
-      "update_date": "2020-10-13 20:20:45",
-      "block": false,
-      "translator_id": 81,
-      "quality": "SATRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/804628.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 6,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 7,
           "episodes_count": 8,
           "episodes": [
             1,

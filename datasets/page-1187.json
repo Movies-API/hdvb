@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Дуэлянт",
+      "title_en": "",
+      "year": 2016,
+      "kinopoisk_id": 840234,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-07-15 00:36:30",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Бэтмен: Начало",
+      "title_en": "Batman Begins",
+      "year": 2005,
+      "kinopoisk_id": 47237,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2018-07-15 00:36:30",
+      "block": false,
+      "translator": "Дубляж",
+      "translator_id": 82,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Темный рыцарь",
       "title_en": "The Dark Knight",
       "year": 2008,
@@ -233,32 +259,6 @@
       "translator": "Дубляж",
       "translator_id": 82,
       "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Девять жизней",
-      "title_en": "Nine Lives",
-      "year": 2016,
-      "kinopoisk_id": 885349,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-07-15 00:22:07",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "HDRip"
-    },
-    {
-      "title_ru": "Стартрек: Бесконечность",
-      "title_en": "Star Trek: Beyond",
-      "year": 2016,
-      "kinopoisk_id": 734349,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2018-07-15 00:22:07",
-      "block": false,
-      "translator": "Дубляж",
-      "translator_id": 82,
-      "quality": "HDRip"
     }
   ]
 }

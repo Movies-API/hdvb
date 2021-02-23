@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Сильвия",
+      "title_en": "Sylvia",
+      "year": 2018,
+      "kinopoisk_id": 1197513,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-10-25 17:37:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Дикие условия",
+      "title_en": "The Outdoorsman",
+      "year": 2019,
+      "kinopoisk_id": 1000433,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2019-10-25 17:35:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "BluRay"
+    },
+    {
       "title_ru": "Соло: Ритм любви",
       "title_en": "SOLO! (Solo: The Rhythm of Love)",
       "year": 2018,
@@ -233,32 +259,6 @@
       "translator": "многоголосый закадровый",
       "translator_id": 89,
       "quality": "DVDRip"
-    },
-    {
-      "title_ru": "Лабиринт",
-      "title_en": "Maze",
-      "year": 2017,
-      "kinopoisk_id": 981554,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-25 07:11:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BluRay"
-    },
-    {
-      "title_ru": "Вход в никуда",
-      "title_en": "Enter Nowhere",
-      "year": 2010,
-      "kinopoisk_id": 506369,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2019-10-25 07:10:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "BluRay"
     }
   ]
 }

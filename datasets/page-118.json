@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Реальная история мальчика-волчонка",
+      "title_en": "The True Adventures of Wolfboy / Przygody mlodego wilkolaka",
+      "year": 2019,
+      "kinopoisk_id": 1048940,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-30 20:17:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "День господа",
+      "title_en": "Menendez Parte 1: El día del Señor",
+      "year": 2020,
+      "kinopoisk_id": 985773,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-30 20:16:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Заклинание",
       "title_en": "Spell",
       "year": 2020,
@@ -235,30 +261,93 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Телохранитель бабушки",
-      "title_en": "Lucky Grandma",
-      "year": 2019,
-      "kinopoisk_id": 1248556,
-      "type": "movie",
+      "title_ru": "Поцелуй меня первым",
+      "title_en": "Kiss Me First",
+      "year": 2018,
+      "kinopoisk_id": 1115409,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "598c2b9db7914fccc13daa1210cf6579311a6faf3662d449dc0b5277525b89bc",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-29 10:04:01",
+      "added_date": "2020-10-18 20:51:27",
+      "update_date": "2020-10-18 20:54:07",
       "block": false,
-      "translator": "Профессиональный (многоголосый)",
-      "translator_id": 126,
-      "quality": "BDRip"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1115409.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Чёрный дрозд",
-      "title_en": "Blackbird (La decisión)",
-      "year": 2020,
-      "kinopoisk_id": 1174220,
-      "type": "movie",
+      "title_ru": "Маленькие женщины",
+      "title_en": "Little Women",
+      "year": 2017,
+      "kinopoisk_id": 1046862,
+      "world_art_id": null,
+      "translator": "HDrezka Studio",
+      "token": "5cab003ff5b72c55fe9a845623d5142e12850f8a61a70e385e319fe6abed5de7",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-29 10:03:01",
+      "added_date": "2020-10-18 20:48:28",
+      "update_date": "2020-10-18 20:50:07",
       "block": false,
-      "translator": "Дубляж [Чистый звук]",
-      "translator_id": 109,
-      "quality": "WEB-DL"
+      "translator_id": 33,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1046862.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 3,
+          "episodes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Последний тамплиер",
+      "title_en": "The Last Templar",
+      "year": 2009,
+      "kinopoisk_id": 454305,
+      "world_art_id": null,
+      "translator": "ТВ-3",
+      "token": "c50874012adfc99fdd7b3cfb9cc511e3eaf5528d88019be2d40a4d7134617519",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-18 20:46:11",
+      "update_date": "2020-10-18 20:46:49",
+      "block": false,
+      "translator_id": 100,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/454305.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Супермонстры",
@@ -1094,132 +1183,6 @@
             7,
             8,
             9
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Настоящие люди",
-      "title_en": "Äkta människor",
-      "year": 2012,
-      "kinopoisk_id": 738813,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "36cc0cf632d1de437b68cef44b2280ef6022ab867fda86be0bc11074ad0b557b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-18 03:08:02",
-      "update_date": "2020-10-18 03:14:15",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/738813.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Любовь в 3 часа дня",
-      "title_en": "Pyeongil ohu sesiui yeonin",
-      "year": 2019,
-      "kinopoisk_id": 1240298,
-      "world_art_id": null,
-      "translator": "STEPonee",
-      "token": "9fbcf9f72565a5bdeacd8e78ccb6957bdfad5161f284a33f64d4370ac34febd0",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-18 03:03:15",
-      "update_date": "2020-10-18 03:06:41",
-      "block": false,
-      "translator_id": 65,
-      "quality": "HDTVRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1240298.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "К жизни",
-      "title_en": "Ad Vitam",
-      "year": 2018,
-      "kinopoisk_id": 1163035,
-      "world_art_id": null,
-      "translator": "ViruseProject",
-      "token": "86b1a0f2206afda7ef219e53db1a775a5b1991d36bc0ec6103cb16ef2d308fb3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-18 02:58:57",
-      "update_date": "2020-10-18 03:00:16",
-      "block": false,
-      "translator_id": 72,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1163035.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
           ]
         }
       ]

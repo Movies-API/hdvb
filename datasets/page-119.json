@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Телохранитель бабушки",
+      "title_en": "Lucky Grandma",
+      "year": 2019,
+      "kinopoisk_id": 1248556,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-29 10:04:01",
+      "block": false,
+      "translator": "Профессиональный (многоголосый)",
+      "translator_id": 126,
+      "quality": "BDRip"
+    },
+    {
+      "title_ru": "Чёрный дрозд",
+      "title_en": "Blackbird (La decisión)",
+      "year": 2020,
+      "kinopoisk_id": 1174220,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-10-29 10:03:01",
+      "block": false,
+      "translator": "Дубляж [Чистый звук]",
+      "translator_id": 109,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Рождество в Миддлтоне",
       "title_en": "Middleton Christmas",
       "year": 2020,
@@ -235,30 +261,130 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Пей свою кровь",
-      "title_en": "Beber de tu sangre",
-      "year": 2020,
-      "kinopoisk_id": 45674565,
-      "type": "movie",
+      "title_ru": "Настоящие люди",
+      "title_en": "Äkta människor",
+      "year": 2012,
+      "kinopoisk_id": 738813,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "36cc0cf632d1de437b68cef44b2280ef6022ab867fda86be0bc11074ad0b557b",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-27 22:59:01",
+      "added_date": "2020-10-18 03:08:02",
+      "update_date": "2020-10-18 03:14:15",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/738813.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Заблудшие ангелы",
-      "title_en": "Lost Angelas",
+      "title_ru": "Любовь в 3 часа дня",
+      "title_en": "Pyeongil ohu sesiui yeonin",
       "year": 2019,
-      "kinopoisk_id": 696256,
-      "type": "movie",
+      "kinopoisk_id": 1240298,
+      "world_art_id": null,
+      "translator": "STEPonee",
+      "token": "9fbcf9f72565a5bdeacd8e78ccb6957bdfad5161f284a33f64d4370ac34febd0",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-10-27 22:57:05",
+      "added_date": "2020-10-18 03:03:15",
+      "update_date": "2020-10-18 03:06:41",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 65,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1240298.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "К жизни",
+      "title_en": "Ad Vitam",
+      "year": 2018,
+      "kinopoisk_id": 1163035,
+      "world_art_id": null,
+      "translator": "ViruseProject",
+      "token": "86b1a0f2206afda7ef219e53db1a775a5b1991d36bc0ec6103cb16ef2d308fb3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-10-18 02:58:57",
+      "update_date": "2020-10-18 03:00:16",
+      "block": false,
+      "translator_id": 72,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1163035.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Красная косынка",
@@ -941,102 +1067,6 @@
             11,
             12,
             13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Навеки Салли",
-      "title_en": "Sally4Ever",
-      "year": 2018,
-      "kinopoisk_id": 1148415,
-      "world_art_id": null,
-      "translator": "Newstudio",
-      "token": "6a278f102dd640cc1c889893204687e6e3000328d44d96634c0c18d81a5a82ae",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-17 18:43:14",
-      "update_date": "2020-10-17 18:44:27",
-      "block": false,
-      "translator_id": 48,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1148415.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кто-то должен умереть",
-      "title_en": "Alguien tiene que morir (Someone Has to Die)",
-      "year": 2020,
-      "kinopoisk_id": 1321272,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "d113d922b5510b1783f72029fa0987b98984faa3f2aac347188b75a21814bc13",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-17 07:49:45",
-      "update_date": "2020-10-17 07:53:15",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1321272.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Французская революция",
-      "title_en": "La Révolution",
-      "year": 2020,
-      "kinopoisk_id": 1405867,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "b90afac087ea412d1a917dd32154422687ae20d1c888da5c7d70357c439c888a",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-10-17 07:47:39",
-      "update_date": "2020-10-17 07:49:30",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1405867.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

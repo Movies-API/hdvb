@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "Шоколадная устрица",
+      "title_en": "Chocolate Oyster",
+      "year": 2018,
+      "kinopoisk_id": 879281,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-27 22:11:01",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
+      "title_ru": "Хоупвелл",
+      "title_en": "Hopewell",
+      "year": 2020,
+      "kinopoisk_id": 1173419,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-11-27 22:10:02",
+      "block": false,
+      "translator": "многоголосый закадровый",
+      "translator_id": 89,
+      "quality": "WEB-DL"
+    },
+    {
       "title_ru": "Мастер-Живодёр",
       "title_en": "Master Pieces",
       "year": 2020,
@@ -235,30 +261,170 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Самый счастливый сезон",
-      "title_en": "Happiest Season",
-      "year": 2020,
-      "kinopoisk_id": 1165045,
-      "type": "movie",
+      "title_ru": "19-2",
+      "title_en": "19-2",
+      "year": 2014,
+      "kinopoisk_id": 818744,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "4ffa197fa3ca8a8da712375df2ef7f37c98fb8a37f4a08e5d0dfc79729518351",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-26 21:07:02",
+      "added_date": "2020-11-19 11:24:46",
+      "update_date": "2020-11-19 11:25:53",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/818744.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Дэвид Боуи: История человека со звезд",
-      "title_en": "Stardust",
-      "year": 2020,
-      "kinopoisk_id": 1245538,
-      "type": "movie",
+      "title_ru": "Неполноценные люди",
+      "title_en": "Hajaittneun ingandeul",
+      "year": 2019,
+      "kinopoisk_id": 1262867,
+      "world_art_id": null,
+      "translator": "SoftBox",
+      "token": "9624d896e7cc556d3fd14b4a668c82e81c3c16d70eac3a9718c31d43a50eb645",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-11-26 18:28:01",
+      "added_date": "2020-11-19 11:22:17",
+      "update_date": "2020-11-19 11:23:51",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 106,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1262867.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Священник",
+      "title_en": "Peuriseuteu",
+      "year": 2018,
+      "kinopoisk_id": 1192194,
+      "world_art_id": null,
+      "translator": "HighHopes",
+      "token": "fded19a54c6ba64d4176bb618b3262b9635e63beee6457b5eaf86dd86e79076f",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-11-19 11:21:21",
+      "update_date": "2020-11-19 11:22:03",
+      "block": false,
+      "translator_id": 168,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1192194.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Бальтазар",
@@ -1368,165 +1534,6 @@
             6,
             7,
             8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бальтазар",
-      "title_en": "Balthazar",
-      "year": 2018,
-      "kinopoisk_id": 1210572,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "6eb44da2496a988cce303582cdb500473057453ed1eafda84a006f2f7ade6d28",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-08 00:02:34",
-      "update_date": "2020-11-18 11:34:51",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1210572.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Южный ветер. Возвращение",
-      "title_en": "Juzni vetar",
-      "year": 2020,
-      "kinopoisk_id": 1302593,
-      "world_art_id": null,
-      "translator": "Дубляж",
-      "token": "57b0b887dbeda39091f75e6e8feaaeb780aedaf0796a36624699cf6b7180dc9b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-09-18 13:49:23",
-      "update_date": "2020-11-18 08:09:47",
-      "block": false,
-      "translator_id": 82,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1302593.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Вишнёвый сезон",
-      "title_en": "Kiraz Mevsimi",
-      "year": 2014,
-      "kinopoisk_id": 842503,
-      "world_art_id": null,
-      "translator": "Хабар",
-      "token": "b50c8c625c9d0bc3f884ea3ce801cdc23a86a24eb8e10fb3df8836e992a3ecfb",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-18 00:10:07",
-      "update_date": "2020-11-18 00:25:29",
-      "block": false,
-      "translator_id": 189,
-      "quality": "WEBRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/842503.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 59,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30,
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40,
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50,
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59
           ]
         }
       ]

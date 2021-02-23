@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title_ru": "По соображениям совести",
+      "title_en": "Hacksaw Ridge",
+      "year": 2016,
+      "kinopoisk_id": 649917,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 00:11:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
+      "title_ru": "План побега 3",
+      "title_en": "Escape Plan: The Extractors (Extended Cut)",
+      "year": 2019,
+      "kinopoisk_id": 1044281,
+      "type": "movie",
+      "iframe_url": "",
+      "added_date": "2020-07-13 00:10:01",
+      "block": false,
+      "translator": "Дубляж [Лицензия]",
+      "translator_id": 107,
+      "quality": "HDRip"
+    },
+    {
       "title_ru": "Пассажиры",
       "title_en": "Passengers",
       "year": 2016,
@@ -235,30 +261,148 @@
       "quality": "WEB-DL"
     },
     {
-      "title_ru": "Июльские Ночи",
-      "title_en": "Noches De Julio",
-      "year": 2020,
-      "kinopoisk_id": 76583688,
-      "type": "movie",
+      "title_ru": "Сакральные игры",
+      "title_en": "Sacred Games",
+      "year": 2018,
+      "kinopoisk_id": 1118195,
+      "world_art_id": null,
+      "translator": "TVShows",
+      "token": "c137557b4519d6f3b40c437430a5a5d4379adc4a40be84dd6b3c2a45469249b9",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-12 21:37:01",
+      "added_date": "2020-05-31 09:23:57",
+      "update_date": "2020-05-31 09:23:57",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 117,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1118195.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=149236",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Ненавижу лето",
-      "title_en": "Odio l'estate",
+      "title_ru": "Родина: Форт Салем",
+      "title_en": "Motherland: Fort Salem",
       "year": 2020,
-      "kinopoisk_id": 1338454,
-      "type": "movie",
+      "kinopoisk_id": 1253333,
+      "world_art_id": null,
+      "translator": "Кириллица",
+      "token": "20cdd5ef45a1d203673de61dc36f068027c0c818dfd17372c0121ab69453089a",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-07-12 21:36:02",
+      "added_date": "2020-05-31 08:59:08",
+      "update_date": "2020-05-31 08:59:08",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 123,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1253333.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Сирена",
+      "title_en": "Siren",
+      "year": 2018,
+      "kinopoisk_id": 1044468,
+      "world_art_id": null,
+      "translator": "LostFilm",
+      "token": "1d1f0890945ef8bf1e8bb04089e7aa2c9b7818992d334f20aeb55904c916ba0a",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-05-30 23:51:08",
+      "update_date": "2020-05-30 23:51:08",
+      "block": false,
+      "translator_id": 43,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1044468.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "Инстинкт",
@@ -844,123 +988,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Беги",
-      "title_en": "Run",
-      "year": 2020,
-      "kinopoisk_id": 1202314,
-      "world_art_id": null,
-      "translator": "Novamedia",
-      "token": "6b37b7eae79b73e1ff4a3c3fb2010198f672859ad96b343a77e1bf61efd3742e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-29 15:43:04",
-      "update_date": "2020-05-29 15:43:04",
-      "block": false,
-      "translator_id": 51,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1202314.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сирена",
-      "title_en": "Siren",
-      "year": 2018,
-      "kinopoisk_id": 1044468,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "31561946bbe096cde9965f01ba53a9028aa6cf2b38efa6ef585940657e373a66",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-29 14:19:53",
-      "update_date": "2020-05-29 14:19:53",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1044468.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Знаки",
-      "title_en": "Znaki",
-      "year": 2018,
-      "kinopoisk_id": 1188905,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "de219dbdb1fa93c2b1100c350a27c67179104c33547254642f2e136e7f9b4bf8",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-05-29 14:19:19",
-      "update_date": "2020-05-29 14:19:19",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "http://kinopoiskapiunofficial.tech/images/posters/kp/1188905.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]
