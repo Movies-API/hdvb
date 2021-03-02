@@ -1,6 +1,148 @@
 {
   "items": [
     {
+      "title_ru": "Мистер Хелл",
+      "title_en": "Aaagh! It\\'s the Mr. Hell Show!",
+      "year": 2000,
+      "kinopoisk_id": 395100,
+      "world_art_id": null,
+      "translator": "Профессиональный (многоголосый)",
+      "token": "64648ae5dda03069d69ed0a991806aab60f12bd1ab5a1a2638c2e84ca5588007",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-02 23:12:43",
+      "update_date": "2020-12-02 23:13:29",
+      "block": false,
+      "translator_id": 126,
+      "quality": "DVDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/395100.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Исчезновение на берегу озера",
+      "title_en": "Le mystère du lac",
+      "year": 2015,
+      "kinopoisk_id": 1044640,
+      "world_art_id": null,
+      "translator": "Игмар",
+      "token": "b411ec2636360e1639ee368635d983217a9c08744344e189f09d603739329e7c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-02 23:11:45",
+      "update_date": "2020-12-02 23:12:46",
+      "block": false,
+      "translator_id": 160,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1044640.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Соколиный холм",
+      "title_en": "Sahin Tepesi",
+      "year": 2018,
+      "kinopoisk_id": 1199646,
+      "world_art_id": null,
+      "translator": "одноголосый закадровый",
+      "token": "ecda656cdf893d7403d3212fac2e73a8991a90b16656198a035ad00d6ccb3fd3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-02 23:10:48",
+      "update_date": "2020-12-02 23:11:33",
+      "block": false,
+      "translator_id": 93,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1199646.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Терьеры",
+      "title_en": "Terriers",
+      "year": 2010,
+      "kinopoisk_id": 498432,
+      "world_art_id": null,
+      "translator": "Alexfilm",
+      "token": "13c3871b25d66b32938371a41da73971971b99742a9f873fafff909b1cb7d546",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-12-02 23:09:41",
+      "update_date": "2020-12-02 23:11:04",
+      "block": false,
+      "translator_id": 3,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/498432.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 13,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Ходячие мертвецы: Мир за пределами",
       "title_en": "The Walking Dead: World Beyond",
       "year": 2020,
@@ -947,276 +1089,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Звёздные войны: Повстанцы",
-      "title_en": "Star Wars: Rebels",
-      "year": 2014,
-      "kinopoisk_id": 803148,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "a91050e89332f945c2a52477ff24420fee1c20fa48de9efdd1b869952badb351",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-01 21:47:09",
-      "update_date": "2020-12-01 22:38:44",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/803148.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 14,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 21,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 21,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 16,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Клуб нянь",
-      "title_en": "The Baby-Sitters Club",
-      "year": 2020,
-      "kinopoisk_id": 1245488,
-      "world_art_id": null,
-      "translator": "HDrezka Studio",
-      "token": "96ede649ac5ce1c19a88f27f7857b3a448ccc1740b5b28e43252931e266307ba",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-01 22:16:03",
-      "update_date": "2020-12-01 22:16:42",
-      "block": false,
-      "translator_id": 33,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1245488.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Мистер Пиклз",
-      "title_en": "Mr. Pickles",
-      "year": 2013,
-      "kinopoisk_id": 842986,
-      "world_art_id": null,
-      "translator": "2x2",
-      "token": "e9641693bf8178c999ae8504b9423ffad831dda68fb6b25fd5b9eeb3ee13f3c9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-12-01 20:38:45",
-      "update_date": "2020-12-01 20:42:10",
-      "block": false,
-      "translator_id": 1,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/842986.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=109052",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        },
-        {
-          "season_number": 4,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "1994",
-      "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1178824,
-      "world_art_id": null,
-      "translator": "Ultradox",
-      "token": "d1af9d69348220c791b4027975ad7522e052305e81f2ee6cde9ce9161e2dd466",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-11-24 17:11:01",
-      "update_date": "2020-12-01 18:48:56",
-      "block": false,
-      "translator_id": 183,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1178824.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
           ]
         }
       ]

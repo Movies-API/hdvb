@@ -1,6 +1,141 @@
 {
   "items": [
     {
+      "title_ru": "Карппи",
+      "title_en": "Karppi",
+      "year": 2018,
+      "kinopoisk_id": 1188045,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "889d8368ca383899b304eeae3a0f39eab5dc2fc3a5d04a3019b013bd2584a8bf",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-05 22:52:05",
+      "update_date": "2020-04-05 22:52:05",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1188045.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Панчаят",
+      "title_en": "Panchayat",
+      "year": 2020,
+      "kinopoisk_id": 1359425,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "dfb0476ed871c3377ae9fb7610cdb1fc8974d5d8d4bb0479ff13a9dc07affdea",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-05 22:48:04",
+      "update_date": "2020-04-05 22:48:04",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1359425.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Колл-центр",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1108685,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "7d328ea42e0db3d81e86c3ce5d4bdd00affb391a2bb01485d9de2da31e690851",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-05 20:38:28",
+      "update_date": "2020-04-05 20:38:28",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1108685.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Король тигров: Убийство, хаос и безумие",
+      "title_en": "Tiger King: Murder, Mayhem and Madness",
+      "year": 2020,
+      "kinopoisk_id": 1363058,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "550c4e6937b1144e7508e1e1995113ce44770a5b8c2db1ac9bbda0badbd73af3",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-05 19:37:35",
+      "update_date": "2020-04-05 19:37:35",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1363058.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Час",
       "title_en": "The Hour",
       "year": 2011,
@@ -709,144 +844,6 @@
       "translator_id": 92,
       "quality": "WEB-DL",
       "poster": "https://www.kinopoisk.ru/images/film_big/1253945.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Рассказы из Петли",
-      "title_en": "Tales from the Loop",
-      "year": 2020,
-      "kinopoisk_id": 1178337,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "6599ec7887e4d720e4448e89967476e120970c213559982bb41305c0a083b365",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-04 11:15:58",
-      "update_date": "2020-04-04 11:15:58",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1178337.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Бумажный дом",
-      "title_en": "La casa de papel",
-      "year": 2017,
-      "kinopoisk_id": 1046206,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "f77c9d91a9e92c3f4d807218746ccccea452b5e2ce3aff079fcfcfa3e410c2ed",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-04 09:58:47",
-      "update_date": "2020-04-04 09:58:47",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1046206.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 4,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Человек будущего",
-      "title_en": "Future Man",
-      "year": 2017,
-      "kinopoisk_id": 958578,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "14ecde8aef145ca912b720264ce23bc73a54df2665c321d636a545cbb9e006ee",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-04 09:49:55",
-      "update_date": "2020-04-04 09:49:55",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/958578.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Домой засветло",
-      "title_en": "Home Before Dark",
-      "year": 2020,
-      "kinopoisk_id": 1164676,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "bef18c52f157f2e7b5d3c783040c06898c1f44f3b0ab2b1a51cf2c8db50bcb81",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-04 00:15:56",
-      "update_date": "2020-04-04 00:15:56",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1164676.jpg",
       "trailer": "",
       "serial_episodes": [
         {

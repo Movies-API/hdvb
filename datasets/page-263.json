@@ -1,6 +1,144 @@
 {
   "items": [
     {
+      "title_ru": "Рассказы из Петли",
+      "title_en": "Tales from the Loop",
+      "year": 2020,
+      "kinopoisk_id": 1178337,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "6599ec7887e4d720e4448e89967476e120970c213559982bb41305c0a083b365",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-04 11:15:58",
+      "update_date": "2020-04-04 11:15:58",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1178337.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Бумажный дом",
+      "title_en": "La casa de papel",
+      "year": 2017,
+      "kinopoisk_id": 1046206,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "f77c9d91a9e92c3f4d807218746ccccea452b5e2ce3aff079fcfcfa3e410c2ed",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-04 09:58:47",
+      "update_date": "2020-04-04 09:58:47",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1046206.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 4,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Человек будущего",
+      "title_en": "Future Man",
+      "year": 2017,
+      "kinopoisk_id": 958578,
+      "world_art_id": null,
+      "translator": "BaibaKo",
+      "token": "14ecde8aef145ca912b720264ce23bc73a54df2665c321d636a545cbb9e006ee",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-04 09:49:55",
+      "update_date": "2020-04-04 09:49:55",
+      "block": false,
+      "translator_id": 14,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/958578.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Домой засветло",
+      "title_en": "Home Before Dark",
+      "year": 2020,
+      "kinopoisk_id": 1164676,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "bef18c52f157f2e7b5d3c783040c06898c1f44f3b0ab2b1a51cf2c8db50bcb81",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-04 00:15:56",
+      "update_date": "2020-04-04 00:15:56",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1164676.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Особо тяжкие преступления",
       "title_en": "Major Crimes",
       "year": 2012,
@@ -766,138 +904,6 @@
             18,
             19,
             20
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Сандерленд до гроба",
-      "title_en": "Sunderland 'Til I Die",
-      "year": 2018,
-      "kinopoisk_id": 1338507,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "e34dac31a238d05d5cb1439bf744f03b98c84d28d61a06739e9190dd29594360",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-01 23:16:48",
-      "update_date": "2020-04-01 23:16:48",
-      "block": false,
-      "translator_id": 115,
-      "quality": "CAMRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/1338507.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Чудотворцы",
-      "title_en": "Miracle Workers",
-      "year": 2018,
-      "kinopoisk_id": 1111018,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "1f6328272aef79e935af4e7278e89ef61ac4c04d6cf990de04f48df5120f4b8c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-01 15:32:27",
-      "update_date": "2020-04-01 15:32:27",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1111018.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "BBC: Жизнь",
-      "title_en": "Life",
-      "year": 2009,
-      "kinopoisk_id": 500289,
-      "world_art_id": null,
-      "translator": "одноголосый закадровый",
-      "token": "f8980ee744fc452255573538fba680c9c1e9a89bad2b273325ba0ed6a9f06dea",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-01 06:51:01",
-      "update_date": "2020-04-01 06:51:01",
-      "block": false,
-      "translator_id": 93,
-      "quality": "BDRip",
-      "poster": "https://st.kp.yandex.net/images/film_big/500289.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Родное сердце",
-      "title_en": "",
-      "year": 2017,
-      "kinopoisk_id": 1039202,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "e796589c7c3e2033e02dcb9637d1ff393ffe34c4e33a342200523b9300923dd9",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-01 05:15:37",
-      "update_date": "2020-04-01 05:15:37",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1039202.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 2,
-          "episodes": [
-            1,
-            2
           ]
         }
       ]

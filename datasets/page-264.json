@@ -1,6 +1,138 @@
 {
   "items": [
     {
+      "title_ru": "Сандерленд до гроба",
+      "title_en": "Sunderland 'Til I Die",
+      "year": 2018,
+      "kinopoisk_id": 1338507,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "e34dac31a238d05d5cb1439bf744f03b98c84d28d61a06739e9190dd29594360",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-01 23:16:48",
+      "update_date": "2020-04-01 23:16:48",
+      "block": false,
+      "translator_id": 115,
+      "quality": "CAMRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1338507.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Чудотворцы",
+      "title_en": "Miracle Workers",
+      "year": 2018,
+      "kinopoisk_id": 1111018,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "1f6328272aef79e935af4e7278e89ef61ac4c04d6cf990de04f48df5120f4b8c",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-01 15:32:27",
+      "update_date": "2020-04-01 15:32:27",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1111018.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 2,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "BBC: Жизнь",
+      "title_en": "Life",
+      "year": 2009,
+      "kinopoisk_id": 500289,
+      "world_art_id": null,
+      "translator": "одноголосый закадровый",
+      "token": "f8980ee744fc452255573538fba680c9c1e9a89bad2b273325ba0ed6a9f06dea",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-01 06:51:01",
+      "update_date": "2020-04-01 06:51:01",
+      "block": false,
+      "translator_id": 93,
+      "quality": "BDRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/500289.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Родное сердце",
+      "title_en": "",
+      "year": 2017,
+      "kinopoisk_id": 1039202,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "e796589c7c3e2033e02dcb9637d1ff393ffe34c4e33a342200523b9300923dd9",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-01 05:15:37",
+      "update_date": "2020-04-01 05:15:37",
+      "block": false,
+      "translator_id": 92,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1039202.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Новый человек",
       "title_en": "",
       "year": 2018,
@@ -704,171 +836,6 @@
             14,
             15,
             16
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Автомастера: деньги из ржавчины",
-      "title_en": "Car Masters: Rust to Riches",
-      "year": 2018,
-      "kinopoisk_id": 8893550,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "1daa6f8bf104c793a1211db688ac9a6e58da0078a9fe3813ea9d73425f3e5c53",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-28 08:11:25",
-      "update_date": "2020-03-28 08:11:25",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/8893550.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Проект засекречен",
-      "title_en": "Project Blue Book",
-      "year": 2018,
-      "kinopoisk_id": 1173629,
-      "world_art_id": null,
-      "translator": "LostFilm",
-      "token": "f628ff032d947c2d735d6d7b0c1e0ed505e93b3d70e018261fecdab560642e3e",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-28 01:08:27",
-      "update_date": "2020-03-28 01:08:27",
-      "block": false,
-      "translator_id": 43,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1173629.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Киберсталкер",
-      "title_en": "Stalk",
-      "year": 2019,
-      "kinopoisk_id": 1254840,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "d4b8b3a919abc0be27d97c9900048674f86264e6c0765b71d2541e13d3638f2c",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-27 22:25:44",
-      "update_date": "2020-03-27 22:25:44",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1254840.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Озарк",
-      "title_en": "Ozark",
-      "year": 2017,
-      "kinopoisk_id": 1045553,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "4b0182cf6539ae4f4647c9be7046ad6e62e035737b159666108504608c9bdb1b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-03-27 22:22:47",
-      "update_date": "2020-03-27 22:22:47",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1045553.jpg",
-      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=142747",
-      "serial_episodes": [
-        {
-          "season_number": 3,
-          "episodes_count": 10,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
           ]
         }
       ]

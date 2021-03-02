@@ -1,6 +1,162 @@
 {
   "items": [
     {
+      "title_ru": "Паромщица",
+      "title_en": "",
+      "year": 2020,
+      "kinopoisk_id": 1272222,
+      "world_art_id": null,
+      "translator": "Не требуется",
+      "token": "9160e4e2f108a1f11c99f42dd73b503d73d1d0ba1fbc4e1be52fb41680888b59",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-10 06:00:05",
+      "update_date": "2020-04-10 06:00:05",
+      "block": false,
+      "translator_id": 92,
+      "quality": "HDTV",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1272222.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Побег из Даннеморы",
+      "title_en": "Escape at Dannemora",
+      "year": 2018,
+      "kinopoisk_id": 1046051,
+      "world_art_id": null,
+      "translator": "SDI Media",
+      "token": "3ccb8dccfbf0c872f8e31dff6f7cb18fac798b5bc55fd91cff35d7f095ba7a35",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-10 00:06:59",
+      "update_date": "2020-04-10 00:06:59",
+      "block": false,
+      "translator_id": 60,
+      "quality": "HDTV",
+      "poster": "https://st.kp.yandex.net/images/film_big/1046051.jpg",
+      "trailer": "https://www.kinopoisk.ru/gettrailer.php?quality=hd&amp;trailer_id=151437",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Бюро",
+      "title_en": "Le Bureau des Légendes",
+      "year": 2015,
+      "kinopoisk_id": 891683,
+      "world_art_id": null,
+      "translator": "Spike",
+      "token": "d07f0afaedc67941832c81b23ace8f707e99a2cbe657a58d8f9584dc9fa1c713",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-09 23:43:47",
+      "update_date": "2020-04-09 23:43:47",
+      "block": false,
+      "translator_id": 119,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/891683.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 3,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "title_ru": "Удар крови OVA-4",
+      "title_en": "Strike the Blood IV",
+      "year": 2020,
+      "kinopoisk_id": 1764431,
+      "world_art_id": null,
+      "translator": "Octopus",
+      "token": "d9d53257405179fbe9004feb127ae0ad3bf645ee78e516f8d9abd15df63cadbc",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-04-09 21:21:24",
+      "update_date": "2020-04-09 21:21:24",
+      "block": false,
+      "translator_id": 115,
+      "quality": "WEB-DL",
+      "poster": "https://www.kinopoisk.ru/images/film_big/1764431.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 2,
+          "episodes": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
       "title_ru": "Свидетель обвинения",
       "title_en": "The Witness for the Prosecution",
       "year": 2016,
@@ -808,141 +964,6 @@
             10,
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Карппи",
-      "title_en": "Karppi",
-      "year": 2018,
-      "kinopoisk_id": 1188045,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "889d8368ca383899b304eeae3a0f39eab5dc2fc3a5d04a3019b013bd2584a8bf",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-05 22:52:05",
-      "update_date": "2020-04-05 22:52:05",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1188045.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 2,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Панчаят",
-      "title_en": "Panchayat",
-      "year": 2020,
-      "kinopoisk_id": 1359425,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "dfb0476ed871c3377ae9fb7610cdb1fc8974d5d8d4bb0479ff13a9dc07affdea",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-05 22:48:04",
-      "update_date": "2020-04-05 22:48:04",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1359425.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Колл-центр",
-      "title_en": "",
-      "year": 2020,
-      "kinopoisk_id": 1108685,
-      "world_art_id": null,
-      "translator": "Не требуется",
-      "token": "7d328ea42e0db3d81e86c3ce5d4bdd00affb391a2bb01485d9de2da31e690851",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-05 20:38:28",
-      "update_date": "2020-04-05 20:38:28",
-      "block": false,
-      "translator_id": 92,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1108685.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Король тигров: Убийство, хаос и безумие",
-      "title_en": "Tiger King: Murder, Mayhem and Madness",
-      "year": 2020,
-      "kinopoisk_id": 1363058,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "550c4e6937b1144e7508e1e1995113ce44770a5b8c2db1ac9bbda0badbd73af3",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-04-05 19:37:35",
-      "update_date": "2020-04-05 19:37:35",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1363058.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
           ]
         }
       ]
