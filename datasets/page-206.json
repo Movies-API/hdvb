@@ -1,264 +1,151 @@
 {
   "items": [
     {
-      "title_ru": "Убить дракона",
-      "title_en": "Dragon kill order",
-      "year": 2020,
-      "kinopoisk_id": 34563454,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-05 13:13:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Одинокая ночь",
-      "title_en": "Raat Akeli Hai",
-      "year": 2020,
-      "kinopoisk_id": 1392664,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-05 13:09:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Жизнь с псом",
-      "title_en": "Life with Dog",
-      "year": 2018,
-      "kinopoisk_id": 1051418,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-05 13:08:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Луна над Турином",
-      "title_en": "La luna su Torino",
-      "year": 2013,
-      "kinopoisk_id": 809211,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-05 11:31:01",
-      "block": false,
-      "translator": "Профессиональный (многоголосый) [Лицензия]",
-      "translator_id": 110,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Давай разведемся!",
+      "title_ru": "Морозов",
       "title_en": "",
-      "year": 2019,
-      "kinopoisk_id": 1192366,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-05 10:56:01",
-      "block": false,
+      "year": 2007,
+      "kinopoisk_id": 416722,
+      "world_art_id": null,
       "translator": "Не требуется",
+      "token": "e9b8209b19bb351ef9e672a80b4950809f539c5db4991113184798791e6fe031",
+      "type": "serial",
+      "iframe_url": "",
+      "added_date": "2020-07-14 01:19:09",
+      "update_date": "2020-07-14 01:19:09",
+      "block": false,
       "translator_id": 92,
-      "quality": "WEB-DL"
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/416722.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 12,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Око за око / Патриот. Гражданская война",
-      "title_en": "Eye for an Eye / Patriot A Nation at War",
-      "year": 2020,
-      "kinopoisk_id": 1095840,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-05 01:05:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Ничего кроме крови",
-      "title_en": "Nothing But the Blood",
-      "year": 2020,
-      "kinopoisk_id": 1351270,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-05 00:31:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "День 13",
-      "title_en": "Day 13 / Day 13 2021",
-      "year": 2020,
-      "kinopoisk_id": 1074404,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-05 00:30:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Списанные",
-      "title_en": "The Discarded",
-      "year": 2020,
-      "kinopoisk_id": 1134114,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-05 00:29:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Последнее перерождение",
-      "title_en": "The Last Conception",
-      "year": 2020,
-      "kinopoisk_id": 1232729,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-04 23:17:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Цветок любви",
-      "title_en": "Love Flower",
-      "year": 2019,
-      "kinopoisk_id": 1279849,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-04 23:09:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Краш",
-      "title_en": "Crshd",
-      "year": 2019,
-      "kinopoisk_id": 1133600,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-04 23:08:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Учёный",
-      "title_en": "The Scientist",
-      "year": 2020,
-      "kinopoisk_id": 17171765,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-04 21:20:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Дорога до Нома",
-      "title_en": "Safety to Nome",
-      "year": 2019,
-      "kinopoisk_id": 5462675,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-04 21:17:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Гроб в гостиной",
-      "title_en": "Living Room Coffin",
+      "title_ru": "Очередь за нами",
+      "title_en": "Darisi Basimiza",
       "year": 2018,
-      "kinopoisk_id": 872098,
-      "type": "movie",
+      "kinopoisk_id": 1151371,
+      "world_art_id": null,
+      "translator": "Sunshine Studio",
+      "token": "6ca04bdcdc9cf6d2c3e70a53bc03e14bfab4e84f44dd68aa012ecbe63245c2b1",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-04 21:15:02",
+      "added_date": "2020-07-13 22:53:33",
+      "update_date": "2020-07-13 22:53:33",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 67,
+      "quality": "WEBRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1151371.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 5,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Тяжелое бремя",
-      "title_en": "Hanging Millstone",
-      "year": 2018,
-      "kinopoisk_id": 916826,
-      "type": "movie",
+      "title_ru": "Люк",
+      "title_en": "Maenhol",
+      "year": 2017,
+      "kinopoisk_id": 1045824,
+      "world_art_id": null,
+      "translator": "двухголосый закадровый",
+      "token": "02d39e6835147f43a58b2303b15abf402baf053330689cdb902b3be9ba5edc34",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-04 21:13:01",
+      "added_date": "2020-07-13 22:51:15",
+      "update_date": "2020-07-13 22:51:15",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 81,
+      "quality": "HDTVRip",
+      "poster": "https://st.kp.yandex.net/images/film_big/1045824.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 16,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
     },
     {
-      "title_ru": "Школьница с бензопилой. Часть 1 / Возвращение кровавой девушки с бензопилой: месть Неро",
-      "title_en": "Chimamire sukeban chenso red: Zenpen - Nero no fukushu / Chimamire sukeban chênsô red: Zenpen - Nero no fukushû",
-      "year": 2019,
-      "kinopoisk_id": 1207555,
-      "type": "movie",
+      "title_ru": "Софи. Жизнь с чистого листа",
+      "title_en": "Soof: een nieuw begin",
+      "year": 2017,
+      "kinopoisk_id": 1252875,
+      "world_art_id": null,
+      "translator": "CLS Media",
+      "token": "8361a8bea7136b64f7b0e678da8688e75b7acadf545392c237cea0d012d47789",
+      "type": "serial",
       "iframe_url": "",
-      "added_date": "2020-08-04 21:12:01",
+      "added_date": "2020-07-13 22:47:56",
+      "update_date": "2020-07-13 22:47:56",
       "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Находка / Погребённая девушка",
-      "title_en": "What We Found / The Buried Girl",
-      "year": 2020,
-      "kinopoisk_id": 1095707,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-04 19:22:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Человек из Катманду. Часть 1",
-      "title_en": "The Man from Kathmandu Vol. 1",
-      "year": 2020,
-      "kinopoisk_id": 1003953,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-04 19:07:02",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
-    },
-    {
-      "title_ru": "Больше не зверь",
-      "title_en": "Beast No More",
-      "year": 2019,
-      "kinopoisk_id": 908203,
-      "type": "movie",
-      "iframe_url": "",
-      "added_date": "2020-08-04 19:06:01",
-      "block": false,
-      "translator": "многоголосый закадровый",
-      "translator_id": 89,
-      "quality": "WEB-DL"
+      "translator_id": 154,
+      "quality": "WEB-DL",
+      "poster": "https://st.kp.yandex.net/images/film_big/1252875.jpg",
+      "trailer": "",
+      "serial_episodes": [
+        {
+          "season_number": 1,
+          "episodes_count": 10,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
     },
     {
       "title_ru": "LEGO Мир юрского периода: Легенда острова Нублар",
@@ -1452,165 +1339,6 @@
             4,
             5,
             6
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Кайфтаун",
-      "title_en": "Hightown",
-      "year": 2020,
-      "kinopoisk_id": 1232982,
-      "world_art_id": null,
-      "translator": "Octopus",
-      "token": "eb5c838ff89909847fa3d7bba02654dd55eb5faaa8c805e799d9e3c726b6b59f",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-12 14:18:56",
-      "update_date": "2020-07-12 14:18:56",
-      "block": false,
-      "translator_id": 115,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/1232982.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Хэтфилды и МакКои",
-      "title_en": "Hatfields &amp; McCoys",
-      "year": 2012,
-      "kinopoisk_id": 666906,
-      "world_art_id": null,
-      "translator": "SDI Media",
-      "token": "9c6d4e44dfb41b66305bf316534f15dc5d123b764b5710fcc0411408f32a128b",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-12 09:01:47",
-      "update_date": "2020-07-12 09:01:47",
-      "block": false,
-      "translator_id": 60,
-      "quality": "WEB-DL",
-      "poster": "https://st.kp.yandex.net/images/film_big/666906.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 3,
-          "episodes": [
-            1,
-            2,
-            3
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "В темноте",
-      "title_en": "In the Dark",
-      "year": 2019,
-      "kinopoisk_id": 1122150,
-      "world_art_id": null,
-      "translator": "Amedia",
-      "token": "00fba013550bcb0875652ff79e90a7f5f2e5cefe669f7e7cbc4d0b52626a13fc",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-12 08:54:11",
-      "update_date": "2020-07-12 08:54:11",
-      "block": false,
-      "translator_id": 7,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1122150.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        },
-        {
-          "season_number": 2,
-          "episodes_count": 13,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
-        }
-      ]
-    },
-    {
-      "title_ru": "Дыши: В тени",
-      "title_en": "Breathe: Into the Shadows",
-      "year": 2020,
-      "kinopoisk_id": 1388679,
-      "world_art_id": null,
-      "translator": "BaibaKo",
-      "token": "25a8e4d69aa5fae96eeb7569233684ed4c7f76c1af635529ea7849eb518666ea",
-      "type": "serial",
-      "iframe_url": "",
-      "added_date": "2020-07-12 08:51:07",
-      "update_date": "2020-07-12 08:51:07",
-      "block": false,
-      "translator_id": 14,
-      "quality": "WEB-DL",
-      "poster": "https://www.kinopoisk.ru/images/film_big/1388679.jpg",
-      "trailer": "",
-      "serial_episodes": [
-        {
-          "season_number": 1,
-          "episodes_count": 12,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12
           ]
         }
       ]
